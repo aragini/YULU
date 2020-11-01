@@ -24,14 +24,13 @@ After analysing the user personas an having done the guesstimate our major targe
 
 
 MARKETING STATEGIES:
+
 Green Marketing:
 This strategy involves branding the product in name of a social cause. All we are planning in this event is to bring interested people together for a cycling marathon. The most important messages to be delivered through this are 
 a)Need for an ecofriendly environment
 b)The importance of fitness, ignorance of which is making us a prey of life threatening issues.
-
 Execution:
 The timeline of the execution of the startegy is illustrated in detailed in the pdf.
-
 KPIs:
 The KPIs we used for analytsing this strategy are
 a)Social media reach
@@ -40,10 +39,8 @@ c)Net Promoter Score
 
 B2B Marketing:
 In this strategy, we would be targeting the working class mainly. So we have our rides available at most of the public transportation stations but it would be quite inevitable for our customers to use our product if we don’t provide them with a YULU zone at their final destination. So we have planned to install yulu zones in the company campuses to make yulu more convenient for the work commute. What the company would benefit from this is that we would pay the company considerable parking charges for every vehicle we place on their campus. We make the company motivate their employees to use our services, since if the usage increases it would benefit both the parties. We are planning to discuss our presentation with the HR head of the company if that’s possible because our services mainly concerns the employees. 
-
 Execution:
 The timeline of the execution of the startegy is illustrated in detailed in the pdf.
-
 KPIs:
 The KPIs we used for analytsing this strategy are
 a)Revenue Growth
